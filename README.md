@@ -5,4 +5,4 @@ Developed a mini Chatbot Application which initially wishes user and responds to
 
 Technologies used: HTML, CSS, JS, Bootstrap
 
-mrudhulachatbot.ccbp.tech
+website: mrudhulachatbot.ccbp.tech
